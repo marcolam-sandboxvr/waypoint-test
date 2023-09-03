@@ -1,4 +1,4 @@
-job "http-sample2" {
+job "http-sample" {
   type = "service"
 
   group "sample" {
